@@ -1,4 +1,4 @@
-#SCOREBOARD
+# SCOREBOARD
 
 This is an application that helps track score of a certain game or event.
 
